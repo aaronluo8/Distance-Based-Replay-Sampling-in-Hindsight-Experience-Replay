@@ -2,7 +2,7 @@
 ECE276C Final Project
 
 ## Introduction
-This was my final project for the Robot Reinforcement Learning Graduate Course at UCSD with Professor Yip in Winter 2021  
+This was my final project for the Robot Reinforcement Learning Graduate Course at UCSD with Professor Michael Yip in Winter 2021  
 
 This project utilizes Deep Deterministic Policy Gradient (DDPG) along with Hindsight Experience Replay (HER) to train a robotic arm agent to perform certain long term tasks. A novel Euclidean-based replay sampling is implemented in the HER algorithm in order to reduce training time.  
 
